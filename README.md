@@ -3,7 +3,7 @@
 Long Description about project. This project do that. This project is awesome...
 ## Team members
 1. MUNEERA A [https://github.com/Muneeraayakkoden/]
-2. Afrah Ap [Embed perosnal github URL]
+2. Afrah Ap [URL]
 3. Nahla P [Embed perosnal github URL]
 4. Shekha KS [Embed perosnal github URL]
 ## Team id
