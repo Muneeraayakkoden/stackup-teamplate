@@ -5,7 +5,7 @@ Long Description about project. This project do that. This project is awesome...
 1. MUNEERA A [Embed personal github URL]
 2. Afrah Ap [Embed perosnal github URL]
 3. Nahla P [Embed perosnal github URL]
-4.Shekha KS [Embed perosnal github URL]
+4. Shekha KS [Embed perosnal github URL]
 ## Team id
 vitalize
 ## Link to product walkthrough
